@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
 export default function UploadImage() {
-  const preset_key = "fvzmkzfo";
-  const cloudName = "dr7frtxsk";
+  const preset_key =import.meta.env.VITE_PRESET_KEY;
+  const cloudName = import.meta.env.VITE_CLOUD_NAME;
   const [image, setImage] = useState();
   //
   const HandleFile = (event) => {
