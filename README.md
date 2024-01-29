@@ -1,7 +1,7 @@
 
 # Cloudinary Image Upload
 
-![Alt text](cloudinary.png)
+<!-- ![Alt text](cloudinary.png) -->
 
 This project is built in React using Vite as a build tool. The objective of this project is to explore Cloudinary, a cloud-based service that lets you store, transform, optimize, and deliver images and videos at scale. Cloudinary is the de facto solution for developers and marketers to manage images, videos, and other rich media assets and deliver an optimal end-user experience.
 
